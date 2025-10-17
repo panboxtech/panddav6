@@ -1,0 +1,4 @@
+/* estilos específicos para view de cliente */
+.entity-list{background:var(--panel); padding:12px; border-radius:12px; box-shadow:0 6px 18px rgba(15,23,42,0.03)}
+.entity-item{padding:10px 12px; border-bottom:1px solid #f1f3f7}
+.entity-item:last-child{border-bottom:none}
